@@ -5,10 +5,15 @@
 1. Clone this repo: `git clone https://github.com/anaelshahbazdev/Illusioned-Choice-Game.git`  
 2. Run: `python game.py`  
 
-## 🔧 Features  
+## 💀 Features  
 - Randomized health system  
-- Multiple endings  
+- Multiple endings
+- 3+ terrifying endings
+- Randomized health/damage system
 
 ## 🚀 Future Plans  
 - Add PyGame graphics  
-- Sound effects  
+- Sound effects
+
+## 🛠️ Built With
+Python 3
