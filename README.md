@@ -1,11 +1,6 @@
 # Illusioned Choice  
 *A psychological horror text-adventure where choices have randomized consequences.*  
 
-## 🎮 How to Play  
-1. Clone this repo: `git clone https://github.com/anaelshahbazdev/Illusioned-Choice-Game.git`  
-2. Run: `python game.py`  
-
-OR 
 
 ## 🎮 Quick Start
 git clone https://github.com/anaelshahbazdev/Illusioned-Choice-Game.git
